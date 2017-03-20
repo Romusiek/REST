@@ -1,2 +1,2 @@
 # hello-world
-audio for ios
+The simple REST iOS application
